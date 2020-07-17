@@ -8,6 +8,11 @@ body {
 
 }
 
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
 .header {
     display: flex;
     flex-wrap: wrap;
