@@ -4,5 +4,28 @@
 }
 
 body {
-    background: #333333;
+    background: #181719;
+
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    background: #181719;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin-left: 10px;
+}
+
+.menu li a {
+    display: block;
+    padding: 10px;
 }
