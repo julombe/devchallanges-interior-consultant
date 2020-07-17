@@ -126,4 +126,51 @@ font-size: 18px;
 line-height: 22px;
 }
 
+.content h2 {
+position: absolute;
+width: 380px;
+height: 61px;
+left: 77px;
+top: 245px;
+
+font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+}
+
+.content p {
+position: absolute;
+width: 410px;
+height: 145px;
+left: 77px;
+top: 347px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+.content a {
+position: absolute;
+width: 102px;
+height: 22px;
+left: 77px;
+top: 540px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+color: #FFFFFF;
+}
 
