@@ -1,19 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
 
-* {
-    padding: 0;
+body,
+ul,
+li,
+p {
     margin: 0;
-}
-
-body {
-    background: #181719;
-    position: absolute;
-    width: 1440px;
-    height: 1080px;
-    left: 0px;
-    top: 0px;
+    padding: 0;
+    list-style: none;
+    font-size: 1.2rem;
     font-family: 'Montserrat', sans-serif;
-
+    background: #181719;
 }
 
 a {
@@ -27,7 +23,7 @@ a {
     background: #181719;
     justify-content: space-between;
     align-items: center;
-    
+    padding: 20px;
 }
 
 .menu {
@@ -43,133 +39,136 @@ a {
     padding: 10px;
 }
 
+
 .rectangle {
-position: absolute;
-width: 102px;
-height: 32px;
-left: 77px;
-top: 50px;
-border: 1px solid #FFFFFF;
-box-sizing: border-box;
-}
-
-.rectangle a {
     position: absolute;
-    width: 86px;
-    height: 16px;
-    left: 85px;
+    width: 102px;
+    height: 32px;
+    left: 77px;
     top: 50px;
-    font-family: Crimson Pro;
-    font-style: normal;
-    font-weight: 200;
-    font-size: 12px;
-    line-height: 16px;
-    /* identical to box height */
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    }
     
-    text-transform: uppercase;
-}
-
-.home {
-position: absolute;
-width: 57px;
-height: 22px;
-left: 827px;
-top: 46px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 22px;
-}
-
-.collection {
-position: absolute;
-width: 92px;
-height: 22px;
-left: 970px;
-top: 46px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 22px;
-}
-
-.about {
-position: absolute;
-width: 57px;
-height: 22px;
-left: 1148px;
-top: 46px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 22px;
-}
-
-.contact {
-position: absolute;
-width: 73px;
-height: 22px;
-left: 1291px;
-top: 46px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 22px;
-}
-
-.content h2 {
-position: absolute;
-width: 380px;
-height: 61px;
-left: 77px;
-top: 245px;
-
-font-family: Lora;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 61px;
-
-color: #FFFFFF;
-}
-
-.content p {
-position: absolute;
-width: 410px;
-height: 145px;
-left: 77px;
-top: 347px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 300;
-font-size: 24px;
-line-height: 29px;
-
-color: #FFFFFF;
-}
-
-.content a {
-position: absolute;
-width: 102px;
-height: 22px;
-left: 77px;
-top: 540px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 600;
-font-size: 18px;
-line-height: 22px;
-/* identical to box height */
-color: #FFFFFF;
-}
-
+    .rectangle a {
+        position: absolute;
+        width: 86px;
+        height: 16px;
+        left: 85px;
+        top: 50px;
+        font-family: Crimson Pro;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 12px;
+        line-height: 16px;
+        /* identical to box height */
+        
+        text-transform: uppercase;
+    }
+    
+    .home {
+    position: absolute;
+    width: 57px;
+    height: 22px;
+    left: 827px;
+    top: 46px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    }
+    
+    .collection {
+    position: absolute;
+    width: 92px;
+    height: 22px;
+    left: 970px;
+    top: 46px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    }
+    
+    .about {
+    position: absolute;
+    width: 57px;
+    height: 22px;
+    left: 1148px;
+    top: 46px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    }
+    
+    .contact {
+    position: absolute;
+    width: 73px;
+    height: 22px;
+    left: 1291px;
+    top: 46px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    }
+    
+    .content h2 {
+    position: absolute;
+    width: 380px;
+    height: 61px;
+    left: 77px;
+    top: 245px;
+    
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 61px;
+    
+    color: #FFFFFF;
+    }
+    
+    .content p {
+    position: absolute;
+    width: 410px;
+    height: 145px;
+    left: 77px;
+    top: 347px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+    }
+    
+    .content a {
+    position: absolute;
+    width: 102px;
+    height: 22px;
+    left: 77px;
+    top: 540px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #FFFFFF;
+    }
+    
+    
+    
