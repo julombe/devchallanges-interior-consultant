@@ -8,6 +8,7 @@ body, h1, p, ul, li, a {
 body {
     font-family: "Nunito", Helvetica, Arial, sans-serif;
     background:  #181719;
+    box-sizing: border-box;
 }
 
 ul {
@@ -41,13 +42,23 @@ img {
 }
 
 .menu a {
-    color: white;
+    color: #FFFFFF;
 }
 
 .menu-logo a {
-    font-size: 2.25em;
-    font-weight: bold;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 16px;
+    width: 86px;
+    height: 16px;
+    top: 50px;
+    color: #FFFFFF;
     margin-left: 77px;
+    text-transform: uppercase;
+    border: 1px solid #ffffff;
+
+
+    padding: 5px;
 }
 
 .menu-nav ul {
