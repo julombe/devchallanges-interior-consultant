@@ -6,7 +6,7 @@ body, h1, p, ul, li, a {
 }
 
 body {
-    font-family: "Nunito", Helvetica, Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background:  #181719;
     box-sizing: border-box;
 }
@@ -46,11 +46,11 @@ img {
 }
 
 .menu-logo a {
+    font-family: Crimson Pro;
     font-size: 14px;
     font-weight: 200;
     line-height: 16px;
     width: 86px;
-    height: 16px;
     top: 50px;
     color: #FFFFFF;
     margin-left: 77px;
