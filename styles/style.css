@@ -93,6 +93,7 @@ img {
 
 .about-info {
     flex: 1;
+    margin-top: 245px;
 }
 
 .about-info h1 {
@@ -113,6 +114,8 @@ img {
     line-height: 29px;
     margin-left: 77px;
     color: #FFFFFF;
+    margin-top: 41px;
+    margin-bottom: 48px;
 
 }
 
@@ -127,6 +130,7 @@ img {
 }
 .about-img {
     flex: 1;
+    margin-top: 221px;
     
 }
 
