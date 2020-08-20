@@ -28,13 +28,11 @@ img {
 }
 
 /*=== Estilizando menu ===*/
-.header {
+.container {
     background: #181719;
 }
 
 .menu {
-    max-width: 960px;
-    margin: 0 auto;
     padding: 15px 0;
     display: flex;
     flex-wrap: wrap;
