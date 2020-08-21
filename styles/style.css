@@ -89,6 +89,7 @@ img {
 .about {
     display: flex;
     flex-wrap: wrap;
+    
 }
 
 .about-info {
