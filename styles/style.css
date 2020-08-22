@@ -132,7 +132,7 @@ img {
 }
 
 .about-img {
-flex: 1;
+display: flex;
 width: 821.11px;
 height: 586.53px;
 left: 1395.11px;
