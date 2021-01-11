@@ -141,6 +141,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 This project is under the [MIT](./LICENSE) license.
 
-Feito com ❤️ por José Ulombe 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
+Made with ❤️ by José Ulombe 👋🏽 [Keep in touch!](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
 
 ---
