@@ -85,7 +85,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/julombe/bikcraft
+$ git clone https://github.com/julombe/devchallanges-interior-consultant
 
 
 ```
@@ -96,7 +96,7 @@ $ git clone https://github.com/julombe/bikcraft
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/julombe/bikcraft
+$ git clone https://github.com/julombe/devchallanges-interior-consultant
 
 
 # Instale as dependências
@@ -137,9 +137,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 📝 Licença
+## 📝 License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under the [MIT](./LICENSE) license.
 
 Feito com ❤️ por José Ulombe 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
 
