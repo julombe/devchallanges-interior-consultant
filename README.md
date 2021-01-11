@@ -28,7 +28,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Bikcraft - é uma forma de conectar empresas e entidades que procuram por bicicletas.
+♻️ Interior Consultant  - this page is a simple interior onsultant homepage. This page was created to test my skills in styling navigation and positioning.
 
 
 Projeto desenvolvido durante o curso Web Design Completo oferecida pela [Origamid](https://www.origamid.com/cursos/).
