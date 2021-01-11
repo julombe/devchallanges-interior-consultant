@@ -7,7 +7,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="Bikcraft" title="#Bikcraft" src="./assets/banner.png" />
+    <img alt="Interior Consultant" title="#Interior Consultant" src="./assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
