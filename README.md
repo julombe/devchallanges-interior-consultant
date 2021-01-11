@@ -15,14 +15,14 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-sobre-o-projeto">About</a> •
+ <a href="#-funcionalidades">Funcionalities</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-tecnologias">Tecnologies</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#user-content--licença">License</a>
 </p>
 
 
