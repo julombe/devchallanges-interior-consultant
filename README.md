@@ -110,7 +110,7 @@ $ npm  start
 
 ---
 
-## 🛠 Tecnologies
+## 🛠 Technologies
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
