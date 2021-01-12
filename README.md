@@ -35,7 +35,7 @@ Project developed based on devchallenges [devchallenges.io](https://devchallenge
 
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalities
 
 - [x] Empresas ou entidades podem acessar a plataforma web e solicitar:
   - [x] um orçamento sobre os produtos oferecidos
