@@ -37,13 +37,12 @@ Project developed based on devchallenges [devchallenges.io](https://devchallenge
 
 ## ⚙️ Funcionalities
 
-- [x] Empresas ou entidades podem acessar a plataforma web e solicitar:
+
   - [x] um orçamento sobre os produtos oferecidos
   - [x] escolher um dos produtos oferecidos
   - [x] e o endereço para que ele possa aparecer no mapa
   - [x] além de selecionar um ou mais ítens: 
-    - bicicletas retro
-    - bicicletas de passeio
+   
 
 ---
 
