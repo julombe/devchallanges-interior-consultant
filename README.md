@@ -83,7 +83,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/julombe/devchallanges-interior-consultant
 
 
@@ -94,17 +94,17 @@ $ git clone https://github.com/julombe/devchallanges-interior-consultant
 
 ```bash
 
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/julombe/devchallanges-interior-consultant
 
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm  start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# The application is running in port:3000 - access http://localhost:3000
 
 ```
 
