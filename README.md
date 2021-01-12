@@ -11,7 +11,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Interior Consultant ♻️ Concluído 🚀 🚧
+	🚧  Interior Consultant ♻️ Finished 🚀 🚧
 </h4>
 
 <p align="center">
@@ -19,7 +19,7 @@
  <a href="#-funcionalidades">Funcionalities</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologies</a> • 
+ <a href="#-tecnologias">Technologies</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Author</a> • 
  <a href="#user-content--licença">License</a>
@@ -48,7 +48,7 @@ Project developed based on devchallenges [devchallenges.io](https://devchallenge
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma:
+Layout of this application is available in Figma:
 
 <a href="https://www.figma.com/file/3cf83hHRBAGjG5EKPcG2bV/interior-consultant-challenge?node-id=0%3A1">
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
