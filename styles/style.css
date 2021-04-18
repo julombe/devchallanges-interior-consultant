@@ -1,150 +1,156 @@
 /*==Reset estilos*/
 
-body, h1, p, ul, li, a {
-    margin: 0;
-    padding: 0;
+body,
+h1,
+p,
+ul,
+li,
+a {
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
-    background:  #181719;
-    box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  background: #181719;
+  box-sizing: border-box;
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 img {
-    display: block;
-    max-width: 100%;
+  display: block;
+  max-width: 100%;
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 /*=== Estilizando menu ===*/
 .container {
-    background: #181719;
+  background: #181719;
+
+  width: 100%;
+  top: 0;
+  left: 0;
+
+  display: flex;
+  justify-content: space-between; /*alinhamento horizontal*/
+  align-items: center;
+
+  padding: 20px 50px;
 }
 
 .menu {
-    padding: 15px 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
+  padding: 15px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .menu a {
-    color: #FFFFFF;
+  color: #ffffff;
 }
 
 .menu-logo a {
-    font-family: Crimson Pro;
-    font-size: 14px;
-    font-weight: 200;
-    line-height: 16px;
-    width: 86px;
-    top: 50px;
-    color: #FFFFFF;
-    margin-left: 77px;
-    text-transform: uppercase;
-    border: 1px solid #FFFFFF;
+  font-family: Crimson Pro;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 16px;
+  width: 86px;
+  top: 50px;
+  color: #ffffff;
+  margin-left: 77px;
+  text-transform: uppercase;
+  border: 1px solid #ffffff;
 
-
-    padding: 5px;
+  padding: 5px;
 }
 
 .menu-nav ul {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .menu-nav a {
-    font-size: 1.25em;
-    display: block;
-    padding: 10px;
-    margin-right: 76px;
+  font-size: 1.25em;
+  display: block;
+  padding: 10px;
+  margin-right: 76px;
 }
 
 .menu-nav a:hover {
-    color:  #122ab2;
+  color: #122ab2;
 }
 
 .menu-nav a {
-    font-size: 1.25em;
-    display: block;
-    padding: 10px;
+  font-size: 1.25em;
+  display: block;
+  padding: 10px;
 }
-
 
 /*===about===*/
 
 .about {
-    display: flex;
-    flex-wrap: wrap;
-    
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .about-info {
-    flex: 1;
-    margin-top: 245px;
+  flex: 1;
+  margin-top: 245px;
 }
 
 .about-info h1 {
-    margin-left: 77px;
-    font-family: Lora;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 48px;
-    line-height: 61px;
-    color: #FFFFFF;
+  margin-left: 77px;
+  font-family: Lora;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 61px;
+  color: #ffffff;
 }
 
 .about-info p {
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 24px;
-    line-height: 29px;
-    margin-left: 77px;
-    color: #FFFFFF;
-    margin-top: 41px;
-    margin-bottom: 48px;
-    margin-right: 87px;
-
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  margin-left: 77px;
+  color: #ffffff;
+  margin-top: 41px;
+  margin-bottom: 48px;
+  margin-right: 87px;
 }
 
 .about-info span {
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 22px;
-    color: #FFFFFF;
-    margin-left: 77px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  margin-left: 77px;
 }
 
 .about-img {
-display: flex;
-width: 821.11px;
-height: 586.53px;
-left: 1395.11px;
-top: 221px;
-transform: matrix(-1, 0, 0, 1, 0, 0);
-    margin-top: 221px;
-    
+  display: flex;
+  width: 821.11px;
+  height: 586.53px;
+  left: 1395.11px;
+  top: 221px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  margin-top: 221px;
 }
-
-
-
-
 
 /*@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
 
@@ -309,6 +315,3 @@ a {
     line-height: 22px;
     color: #FFFFFF;
     }*/
-    
-    
-    
