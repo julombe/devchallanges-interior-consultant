@@ -63,6 +63,10 @@ header > a {
   padding: 5px;
 }
 
+header nav ul {
+  display: flex;
+}
+
 .menu {
   padding: 15px 0;
   display: flex;
