@@ -49,7 +49,7 @@ header {
 }
 
 header > a {
-  font-family: Crimson Pro;
+  font-family: "Crimson Pro";
   font-size: 14px;
   font-weight: 200;
   line-height: 16px;
