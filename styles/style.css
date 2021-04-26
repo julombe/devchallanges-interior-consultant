@@ -1,13 +1,10 @@
-/*==Reset estilos*/
+/*==Estilos globais==*/
 
-body,
-h1,
-p,
-ul,
-li,
-a {
+* {
   margin: 0;
   padding: 0;
+  font-size: 100%;
+  box-sizing: border-box;
 }
 
 body {
@@ -22,15 +19,6 @@ ul {
 
 a {
   text-decoration: none;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 /*=== Estilizando menu ===*/
