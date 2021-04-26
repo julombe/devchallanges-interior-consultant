@@ -79,6 +79,10 @@ header li:first-child {
   margin-left: 0;
 }
 
+header li:last-child {
+  margin-right: 0;
+}
+
 .menu {
   padding: 15px 0;
   display: flex;
