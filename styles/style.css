@@ -75,10 +75,12 @@ header li {
   margin: 0 15px;
 }
 
+/*remove a margin a esquerda do home*/
 header li:first-child {
   margin-left: 0;
 }
 
+/*remove a margin a direita do contact*/
 header li:last-child {
   margin-right: 0;
 }
