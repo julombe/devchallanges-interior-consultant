@@ -48,6 +48,21 @@ header {
   padding: 20px 50px;
 }
 
+header > a {
+  font-family: Crimson Pro;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 16px;
+  width: 86px;
+  top: 50px;
+  color: #ffffff;
+  margin-left: 77px;
+  text-transform: uppercase;
+  border: 1px solid #ffffff;
+
+  padding: 5px;
+}
+
 .menu {
   padding: 15px 0;
   display: flex;
