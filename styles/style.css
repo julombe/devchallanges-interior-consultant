@@ -67,6 +67,18 @@ header nav ul {
   display: flex;
 }
 
+header li a {
+  color: #ffffff;
+}
+
+header li {
+  margin: 0 15px;
+}
+
+header li:first-child {
+  margin-left: 0;
+}
+
 .menu {
   padding: 15px 0;
   display: flex;
