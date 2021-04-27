@@ -82,7 +82,7 @@ header li:last-child {
   /*flex-wrap: wrap;*/
 }
 
-.about h1 {
+/*.about h1 {
   margin-left: 77px;
   font-family: Lora;
   font-style: normal;
@@ -90,9 +90,9 @@ header li:last-child {
   font-size: 48px;
   line-height: 61px;
   color: #ffffff;
-}
+}*/
 
-.about-info p {
+.about p {
   font-family: Montserrat;
   font-style: normal;
   font-weight: 300;
@@ -105,7 +105,7 @@ header li:last-child {
   margin-right: 87px;
 }
 
-.about-info span {
+.about span {
   font-family: Montserrat;
   font-style: normal;
   font-weight: 600;
