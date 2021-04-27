@@ -77,15 +77,12 @@ header li:last-child {
 
 .about {
   display: flex;
+  flex-direction: column;
+
   /*flex-wrap: wrap;*/
 }
 
-.about-info {
-  flex: 1;
-  margin-top: 245px;
-}
-
-.about-info h1 {
+.about h1 {
   margin-left: 77px;
   font-family: Lora;
   font-style: normal;
