@@ -78,8 +78,6 @@ header li:last-child {
 .about {
   display: flex;
   /*flex-direction: column;*/
-
-  flex-wrap: wrap;
 }
 
 /*.about h1 {
@@ -113,6 +111,17 @@ header li:last-child {
   line-height: 22px;
   color: #ffffff;
   margin-left: 77px;
+}
+
+.about img {
+  display: flex;
+  width: 821.11px;
+  height: 586.53px;
+  left: 1395.11px;
+  top: 221px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  margin-top: 221px;
+  margin-right: 20px;
 }
 
 /*img {
