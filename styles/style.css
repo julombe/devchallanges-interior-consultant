@@ -114,7 +114,7 @@ header li:last-child {
 }
 
 .about img {
-  display: flex;
+  /*display: flex;*/
   width: 821.11px;
   height: 586.53px;
   left: 1395.11px;
