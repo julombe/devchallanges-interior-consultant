@@ -21,6 +21,24 @@ a {
 }
 
 /*=== Estilizando menu ===*/
+
+#logo {
+  width: 5.375rem;
+  height: 1rem;
+  /*left: 85px;
+  top: 50px;*/
+  font-family: Crimson Pro;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 0.875rem;
+  line-height: 1rem;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
 header {
   background: #181719;
   /*position: absolute;
@@ -36,7 +54,7 @@ header {
   /*padding: 20px 50px;*/
 }
 
-header > a {
+/*header > a {
   font-family: "Crimson Pro";
   font-size: 14px;
   font-weight: 200;
@@ -49,7 +67,7 @@ header > a {
   border: 1px solid #ffffff;
 
   padding: 10px;
-}
+}*/
 
 header nav ul {
   display: flex;
