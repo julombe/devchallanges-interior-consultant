@@ -35,6 +35,8 @@ a {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+
+  justify-content: center;
 }
 
 .header-menu a {
@@ -43,4 +45,16 @@ a {
   padding: 10px 20px;
   color: #ffffff;
   display: block;
+}
+
+@media (max-width: 800px) {
+  #header {
+    flex-direction: column;
+    gap: 40px;
+    padding: 20px;
+  }
+  #header a {
+    background: #4b3e86;
+    border-radius: 5px;
+  }
 }
