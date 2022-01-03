@@ -24,4 +24,9 @@ a {
 #header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+.header-menu {
+  display: flex;
 }
