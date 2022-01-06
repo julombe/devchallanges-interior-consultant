@@ -39,6 +39,9 @@ a {
   display: block;
 
   text-transform: uppercase;
+
+  border: 1px solid #ffffff;
+  font-family: "Crimson Pro";
 }
 
 .header-menu {
