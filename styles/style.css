@@ -42,6 +42,8 @@ a {
 
   border: 1px solid #ffffff;
   font-family: "Crimson Pro";
+  font-style: normal;
+  font-weight: 200;
 }
 
 .header-menu {
