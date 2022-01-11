@@ -62,12 +62,6 @@ a {
 }
 
 .header-menu li:first-child {
-  font-size: 1.125rem;
-  line-height: 1.3;
-  padding: 10px 20px;
-  color: #ffffff;
-  display: block;
-
   font-weight: bold;
 }
 
