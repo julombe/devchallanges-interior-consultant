@@ -63,6 +63,7 @@ a {
 
 .header-menu li:first-child {
   font-weight: bold;
+  border-bottom: 2px solid #ffffff;
 }
 
 @media (max-width: 800px) {
