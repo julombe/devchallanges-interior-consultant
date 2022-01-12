@@ -61,7 +61,12 @@ a {
   display: block;
 }
 
-.header-menu li a:first-child {
+/*.header-menu li a:first-child {
+  font-weight: bold;
+  border-bottom: 2px solid #ffffff;
+}*/
+
+.active {
   font-weight: bold;
   border-bottom: 2px solid #ffffff;
 }
