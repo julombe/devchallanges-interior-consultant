@@ -84,7 +84,9 @@ a {
 }
 
 /*Style main*/
-
+.container {
+  margin-left: 77px;
+}
 .title {
   font-family: "Lora";
   font-style: normal;
