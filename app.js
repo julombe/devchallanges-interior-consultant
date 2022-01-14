@@ -1,0 +1,1 @@
+Window.scrollTo(0, 0)
