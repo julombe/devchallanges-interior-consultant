@@ -30,7 +30,7 @@ a {
   margin: 0 auto;
 }
 
-#logo {
+.logo {
   font-size: 14px;
   line-height: 16px;
   padding: 10px 20px;
@@ -43,6 +43,8 @@ a {
   font-family: "Crimson Pro";
   font-style: normal;
   font-weight: 200;
+
+  /*margin-left: 77px;*/
 }
 
 .header-menu {
