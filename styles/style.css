@@ -113,6 +113,17 @@ p {
   height: 140px;
 }
 
+.read_more {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+
+  margin-top: 48px;
+}
+
 /*Footer*/
 
 .rodape p {
