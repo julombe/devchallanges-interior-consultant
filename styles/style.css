@@ -44,9 +44,7 @@ a {
   font-style: normal;
   font-weight: 200;
 
-  width: 102px;
-
-  /*margin-left: 77px;*/
+  margin-left: 77px; /*margin-left: 77px;*/
 }
 
 .header-menu {
