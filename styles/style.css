@@ -111,6 +111,8 @@ p {
 
   width: 410px;
   height: 140px;
+
+  margin-bottom: 48px;
 }
 
 .read_more {
@@ -120,8 +122,6 @@ p {
   font-size: 18px;
   line-height: 22px;
   color: #ffffff;
-
-  margin-top: 48px;
 }
 
 .arrow {
