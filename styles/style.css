@@ -124,6 +124,9 @@ p {
   margin-top: 48px;
 }
 
+.arrow {
+  background: #ffffff;
+}
 /*Footer*/
 
 .rodape p {
