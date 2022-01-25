@@ -127,7 +127,12 @@ p {
 .arrow {
   background: #ffffff;
 }
+
 /*Footer*/
+.rodape {
+  display: flex;
+  justify-content: center;
+}
 
 .rodape p {
   font-family: "Montserrat";
