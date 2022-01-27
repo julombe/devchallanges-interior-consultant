@@ -130,8 +130,6 @@ p {
 
 /*Footer*/
 .rodape {
-  display: flex;
-  justify-content: center;
 }
 
 .rodape p {
@@ -144,4 +142,7 @@ p {
 
   text-align: center;
   color: #a9a9a9;
+
+  margin: 0 auto;
+  bottom: 0;
 }
