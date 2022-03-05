@@ -68,10 +68,10 @@ a {
   border-bottom: 2px solid #ffffff;
 }*/
 
-.active {
+/*.active {
   font-weight: bold;
   border-bottom: 2px solid #ffffff;
-}
+}*/
 
 @media (max-width: 800px) {
   #header {
