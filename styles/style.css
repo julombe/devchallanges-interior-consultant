@@ -81,11 +81,12 @@ a {
     background: #4b3e86;
     border-radius: 4px;
   }
-  h1 {
+  .title {
     font-size: 36px;
     line-height: 46px;
+    margin-bottom: 0;
   }
-  p {
+  .title p {
     font-size: 14px;
     line-height: 17px;
   }
