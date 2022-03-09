@@ -81,6 +81,10 @@ a {
     background: #4b3e86;
     border-radius: 4px;
   }
+  h1 {
+    font-size: 36px;
+    line-height: 46px;
+  }
 }
 
 /*Style main*/
